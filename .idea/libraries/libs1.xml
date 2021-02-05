@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/@jetbrains/kotlin-react-redux/build/libs/kotlin-react-redux-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/node_modules/@jetbrains/kotlin-react-redux/build/libs/kotlin-react-redux.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
